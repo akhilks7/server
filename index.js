@@ -8,7 +8,7 @@ const middleware = JSONServer.defaults()
 //  imoprt db.json file
 const router = JSONServer.router("db.json")
 //define port to run server
-const PORT = 3000
+const PORT = 3000 ||process.env.PORT
 //use middle ware
 rBuilder.use(middleware)
 //use router

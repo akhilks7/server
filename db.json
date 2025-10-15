@@ -1,0 +1,130 @@
+{
+  "all-resumes": [
+    {
+      "id": "0a04",
+      "profesionalData": {
+        "name": "Suryajith",
+        "jobTitle": "Web Developer",
+        "location": "Kochi",
+        "email": "suryajithss08@gmail.com",
+        "phone": "7356639749",
+        "gitHub": "https://github.com/suryajithss08",
+        "linkedIn": "https://linkedin.com/in/suryajithss08",
+        "portfolio": "https://suryajith.dev"
+      },
+      "educationData": {
+        "course": "BCA",
+        "college": "CCACS",
+        "university": "MGU",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "Web Developer",
+        "company": "Archon Solutions",
+        "jobLocation": "Kochi",
+        "duration": "8 Months"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "PYTHON",
+        "DJANGO"
+      ],
+      "summary": "Passionate web developer skilled in building responsive and modern websites using Python and JavaScript frameworks."
+    },
+    {
+      "id": "b219",
+      "profesionalData": {
+        "name": "Aarav Nair",
+        "jobTitle": "Frontend Developer",
+        "location": "Bengaluru",
+        "email": "aarav.nair@example.com",
+        "phone": "9876543210",
+        "gitHub": "https://github.com/aaravnair",
+        "linkedIn": "https://linkedin.com/in/aaravnair",
+        "portfolio": "https://aaravnair.dev"
+      },
+      "educationData": {
+        "course": "B.Tech CSE",
+        "college": "NMIT",
+        "university": "VTU",
+        "year": "2024"
+      },
+      "experience": {
+        "jobRole": "Frontend Developer Intern",
+        "company": "TechWorks",
+        "jobLocation": "Bengaluru",
+        "duration": "6 Months"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Tailwind CSS"
+      ],
+      "summary": "Enthusiastic frontend developer with hands-on experience in creating modern UI using React and Tailwind CSS."
+    },
+    {
+      "id": "f387",
+      "profesionalData": {
+        "name": "Meera Pillai",
+        "jobTitle": "Full Stack Developer",
+        "location": "Chennai",
+        "email": "meera.pillai@example.com",
+        "phone": "9123456780",
+        "gitHub": "https://github.com/meeradev",
+        "linkedIn": "https://linkedin.com/in/meeradev",
+        "portfolio": "https://meerapillai.com"
+      },
+      "educationData": {
+        "course": "MCA",
+        "college": "SRM Institute of Science and Technology",
+        "university": "SRM University",
+        "year": "2023"
+      },
+      "experience": {
+        "jobRole": "Full Stack Developer",
+        "company": "CodeVerse",
+        "jobLocation": "Chennai",
+        "duration": "1 Year"
+      },
+      "skill": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "summary": "Full stack developer specializing in MERN stack with a strong passion for building scalable web applications."
+    },
+    {
+      "id": "2b00",
+      "profesionalData": {
+        "name": "Akhil K S",
+        "jobTitle": "qwertyu",
+        "location": "zxcvbnm,",
+        "email": "",
+        "phone": "",
+        "gitHub": "",
+        "linkedIn": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    }
+  ]
+}
